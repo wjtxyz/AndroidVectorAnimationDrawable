@@ -8,6 +8,9 @@ Android supply [AnimationDrawable](https://developer.android.com/reference/andro
 #### How to generate
 Use Adobe Illustrator or [Vector Magic](https://vectormagic.com/ "Vector Magic") to convert the raster(png/bitmap/jpg) image to vector image (svg), then import to Android Studio or use [some online tool](https://inloop.github.io/svg2android/ "some online tool") to convert the svg file to Android vector xml drawable
 
+VectorDrawable has a big issue. [The initial loading of a vector graphic can cost more CPU cycles than the corresponding raster image. Afterward, memory use and performance are similar between the two. We recommend that you limit a vector image to a maximum of 200 x 200 dp; otherwise, it can take too long to draw.](https://developer.android.com/studio/write/vector-asset-studio#about "The initial loading of a vector graphic can cost more CPU cycles than the corresponding raster image. Afterward, memory use and performance are similar between the two. We recommend that you limit a vector image to a maximum of 200 x 200 dp; otherwise, it can take too long to draw.")
+
+
 ## Second Try
 ### [PictureDrawable](https://developer.android.com/reference/android/graphics/drawable/PictureDrawable "PictureDrawable")
 #### How to generate
