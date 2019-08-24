@@ -16,12 +16,14 @@ VectorDrawable has a big issue. [The initial loading of a vector graphic can cos
 #### How to generate
 Use [svg-android-2](https://code.google.com/archive/p/svg-android-2/ "svg-android-2") to convert the SVG file to PictureDrawable. But to use in Android resource, we can use [Picture](https://developer.android.com/reference/android/graphics/Picture "Picture").writeToStream
 
-|   | Loading time  | Memory  | Render CPU  |   |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-| PNG Animation  | High  | High  | Low  |   |
-| Vector Animation  | High  | High  | Low  |   |
-| SVG Binary Animation  | Low  | Low  | High  |  |
 
+|   | Loading time  | Memory  | Render CPU  | Render Size Aware  |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+| PNG Animation  | High  | High  | Low  | No  |
+| Vector Animation  | High  | High  | Low  | Yes  |
+| SVG Binary Animation  | Low  | Low  | High  | No |
+
+*Render Size Aware: whether the memory consumption change with the render size*
 
 Android Studio Profiler Snapshot
 ![Android Studio Profiler snapshot](https://github.com/wjtxyz/AndroidVectorFrameAnimation/blob/master/PNGvsVectorvsSVGBinary.png?raw=true "Android Studio Profiler snapshot")
