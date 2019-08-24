@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/remorse01_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse02_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse03_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse04_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse05_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse06_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse07_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse08_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse09_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse10_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse11_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse12_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse13_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse14_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse15_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse16_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse17_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse18_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse19_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse20_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse21_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse22_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse23_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse24_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse25_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse26_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse27_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse28_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse29_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse30_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse31_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse32_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse33_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse34_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse35_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse36_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse37_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse38_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse39_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse30_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse41_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse42_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse43_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse44_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse45_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse46_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse47_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse48_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse49_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse50_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse51_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse52_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse53_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse54_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse55_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse56_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse57_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse58_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse59_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse60_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse61_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse62_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse63_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse64_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse65_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse66_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse67_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse68_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse69_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse70_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse71_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse72_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse73_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse74_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse75_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse76_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse77_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse78_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse79_png"
+        android:duration="40" />
+    <item
+        android:drawable="@drawable/remorse80_png"
+        android:duration="40" />
+
+</animation-list>
